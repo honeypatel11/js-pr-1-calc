@@ -1,5 +1,5 @@
 .box{
-    background: rgba( 255, 255, 255, 0.25 );
+background: rgba( 255, 255, 255, 0.25 );
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
 backdrop-filter: blur( 4px );
 -webkit-backdrop-filter: blur( 4px );
@@ -10,6 +10,5 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
     background-image: url("../images/dark-wavy-colors-background_23-2148403785.avif");
     background-size: cover;
 }
-.m-t-200{
-    margin-top: 200px;
-}
+
+
